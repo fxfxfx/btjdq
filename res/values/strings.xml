@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">蓝牙串口助手</string>
+    <string name="app_name">蓝牙继电器控制终端</string>
+
+    
+    
+    <!--  DeviceListActivity -->
+    <string name="scanning">正在扫描新设备…</string>
+    <string name="select_device">请选择一个设备进行连接</string>
+    <string name="none_paired">没有已配对设备</string>
+    <string name="none_found">没有发现新设备</string>
+    <string name="title_paired_devices">已配对的设备</string>
+    <string name="title_other_devices">其他设备</string>
+    <string name="button_scan">扫描新设备</string>
+    <string name="anjian1">按键1</string>
+    <string name="anjian2">按键2</string>
+    <string name="anjian3">按键3</string>
+    <string name="anjian4">按键4</string>
+    <string name="anjian5">按键5</string>
+    
+</resources>
